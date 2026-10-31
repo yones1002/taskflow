@@ -56,4 +56,4 @@ The project structure will evolve as new features are added.
 
 ## License
 
-This project is currently for learning and personal development purposes.
+This project is currently for learning and personal development purposes. 
