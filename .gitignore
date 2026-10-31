@@ -1,0 +1,7 @@
+taskflow
+*.exe
+.env
+
+# IDE
+.idea/
+.vscode/
